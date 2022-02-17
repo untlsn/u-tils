@@ -5,9 +5,10 @@
     "sourceMap": true,
     "rootDir": "src",
     "outDir": "dist",
-    "declaration": true
+    "declaration": true,
+    "moduleResolution": "Node"
   },
-  "exclude": [
-    "node_modules"
+  "include": [
+    "src"
   ]
 }
