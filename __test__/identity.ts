@@ -2,9 +2,9 @@ import { faker } from '@faker-js/faker';
 import * as U from '../src/index';
 
 
-describe('identify', () => {
+describe('identity', () => {
   it('should return first argument', () => {
     const val = faker.name.firstName();
-    expect(U.identify(val)).toBe(val);
+    expect(U.identity(val)).toBe(val);
   });
 });
