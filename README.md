@@ -1,4 +1,4 @@
-# u-tils
+# tils-u
 Simple utils lib for JavaScript and TypeScript with lodash names
 
 # Goals

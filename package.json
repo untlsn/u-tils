@@ -1,6 +1,6 @@
 {
-  "name": "u-tils",
-  "version": "0.0.0",
+  "name": "tils-u",
+  "version": "0.1.0",
   "main": "dist",
   "exports": {
     ".": "./dist/index.js",
